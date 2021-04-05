@@ -1,8 +1,8 @@
 {
   "name": "react-native-template",
-  "version": "0.0.5",
+  "version": "0.0.1",
   "description": "React Native Template",
-  "repository": "git@github.com:dtrh95/react-native-template.git",
-  "author": "Kacper Wiszczuk <kacperwiszczuk@gmail.com>",
+  "repository": "https://github.com/dtrh95/react-native-template.git",
+  "author": "Hieu Doan <dtrunghieu96@gmail.com>",
   "license": "MIT"
 }
